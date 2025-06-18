@@ -10,3 +10,4 @@ The Program attached to this repository showcases the following:
 2) Pin Configuration
 3) Usage of the AccelStepper library to control a stepper motor
 4) Integration of a keypad to the Arduino for user input
+5) Coordinated axis movements of servo motors
